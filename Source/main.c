@@ -11,7 +11,7 @@ int main(void)
 	systick_init(10000);
 	debug_init(115200);
 	
-	printf("\r\n******************* start *******************\r\n");
+	printf("\r\n******************* starteddf *******************\r\n");
 	
 	mallco_dev.init();
 	
